@@ -1,0 +1,12 @@
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.AssemblyInfo.cs
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\bin\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.deps.json
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\bin\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.dll
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\bin\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.pdb
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\bin\Debug\netcoreapp2.1\SoccerFieldServer.Core.dll
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\bin\Debug\netcoreapp2.1\SoccerFieldServer.Core.pdb
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.csproj.CopyComplete
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.dll
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Infrastructure\obj\Debug\netcoreapp2.1\SoccerFieldServer.Infrastructure.pdb

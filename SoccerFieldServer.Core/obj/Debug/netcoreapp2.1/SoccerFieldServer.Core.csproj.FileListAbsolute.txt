@@ -1,0 +1,9 @@
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\bin\Debug\netcoreapp2.1\SoccerFieldServer.Core.deps.json
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\bin\Debug\netcoreapp2.1\SoccerFieldServer.Core.dll
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.AssemblyInfoInputs.cache
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.AssemblyInfo.cs
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\bin\Debug\netcoreapp2.1\SoccerFieldServer.Core.pdb
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.dll
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.pdb
+C:\Users\hdthuan\Downloads\HoDangThuan\SoccerFieldServer-api-master\SoccerFieldServer.Core\obj\Debug\netcoreapp2.1\SoccerFieldServer.Core.csprojAssemblyReference.cache
